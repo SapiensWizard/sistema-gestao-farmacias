@@ -110,7 +110,7 @@ int main(int argc, char *argv[]) {
 	char login[30];
 	char senha[30];
     
-    strcpy(p[0].login, "David");
+    strcpy(p[0].login, "Sapiens");
     strcpy(p[0].senha, "123");
     
     printf("\nlogin: ");

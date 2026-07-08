@@ -25,19 +25,16 @@ Sistema desenvolvido em C para gerenciamento de farmácias, com funcionalidades 
 - Memória: 512 MB RAM mínimo
 - Espaço em disco: 50 MB para arquivos de dados
 
-### Credenciais
+## 🔑 Credenciais de Acesso
 
-Login:
+O sistema possui um acesso padrão para demonstração:
 
-```
-David
-```
+| Campo | Valor |
+|-------|-------|
+| 👤 **Usuário** | `admin` |
+| 🔒 **Senha** | `admin` |
 
-Senha:
-
-```
-123
-```
+> ⚠️ **Nota:** Estas são credenciais padrão para testes. Em produção, recomenda-se alterar a senha.
 
 ## Autor
 
