@@ -1,0 +1,6 @@
+# Arquivos gerados pela compilação não serão enviados ao GitHub
+*.exe
+*.o
+*.obj
+*.layout
+*.depend
